@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.women {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.men {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.headline {
+  text-align: center;
+  margin-bottom: 50px;
+  margin: 20px;
+  background-color: coral;
+}
